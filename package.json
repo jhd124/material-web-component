@@ -1,0 +1,23 @@
+{
+  "name": "material-web-component",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhd124/material-web-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhd124/material-web-component/issues"
+  },
+  "homepage": "https://github.com/jhd124/material-web-component#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "typescript": "^4.4.4"
+  }
+}
